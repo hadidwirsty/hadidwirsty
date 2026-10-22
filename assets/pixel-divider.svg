@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 24" width="100%" height="24" shape-rendering="crispEdges" role="separator" aria-label="16-bit Pixel Art Divider">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 24" width="100%" height="24" shape-rendering="crispEdges" role="separator" aria-label="16-bit Pixel Art Divider">
   <title>16-bit Pixel Art Divider</title>
   <defs>
     <style>
-      .p-dark { fill: #161b22; }
+      .p-dark { fill: #131923; }
       .p-border { fill: #30363d; }
       .p-gold { fill: #d29922; }
       .p-gold-bright { fill: #f1e05a; }
@@ -13,45 +13,54 @@
     </style>
   </defs>
 
-  <!-- Left horizontal pixel track -->
-  <rect x="0" y="10" width="340" height="4" class="p-border" />
-  <rect x="0" y="11" width="340" height="2" class="p-green" />
+  <!-- Left horizontal continuous pixel track -->
+  <rect x="0" y="10" width="392" height="4" class="p-border" />
+  <rect x="0" y="11" width="392" height="2" class="p-green" />
   
-  <!-- Left accent dots -->
-  <rect x="80" y="9" width="6" height="6" class="p-gold" />
-  <rect x="82" y="11" width="2" height="2" class="p-gold-bright" />
-  <rect x="180" y="9" width="6" height="6" class="p-green-bright" />
-  <rect x="182" y="11" width="2" height="2" class="p-white" />
-  <rect x="280" y="9" width="6" height="6" class="p-gold" />
-  <rect x="282" y="11" width="2" height="2" class="p-gold-bright" />
+  <!-- Left accent pixel gems -->
+  <rect x="90" y="8" width="8" height="8" class="p-border" />
+  <rect x="91" y="9" width="6" height="6" class="p-gold" />
+  <rect x="93" y="11" width="2" height="2" class="p-gold-bright" />
 
-  <!-- Center Pixel Artifact: 16-bit Heart & Gem Crest -->
-  <!-- Outer border of crest -->
-  <rect x="376" y="2" width="48" height="20" class="p-border" />
-  <rect x="378" y="4" width="44" height="16" class="p-dark" />
+  <rect x="210" y="8" width="8" height="8" class="p-border" />
+  <rect x="211" y="9" width="6" height="6" class="p-green-bright" />
+  <rect x="213" y="11" width="2" height="2" class="p-white" />
+
+  <rect x="330" y="8" width="8" height="8" class="p-border" />
+  <rect x="331" y="9" width="6" height="6" class="p-gold" />
+  <rect x="333" y="11" width="2" height="2" class="p-gold-bright" />
+
+  <!-- Center Pixel Artifact: 16-bit Crest (x=392 to x=448, width=56) -->
+  <rect x="392" y="2" width="56" height="20" class="p-border" />
+  <rect x="394" y="4" width="52" height="16" class="p-dark" />
   
-  <!-- Pixel Diamond / Gem inside crest -->
-  <rect x="398" y="6" width="4" height="2" class="p-gold-bright" />
-  <rect x="396" y="8" width="8" height="2" class="p-gold-bright" />
-  <rect x="394" y="10" width="12" height="4" class="p-gold" />
-  <rect x="396" y="14" width="8" height="2" class="p-gold" />
-  <rect x="398" y="16" width="4" height="2" class="p-border" />
+  <!-- Center Pixel Heart / Gem -->
+  <rect x="418" y="6" width="4" height="2" class="p-gold-bright" />
+  <rect x="416" y="8" width="8" height="2" class="p-gold-bright" />
+  <rect x="414" y="10" width="12" height="4" class="p-gold" />
+  <rect x="416" y="14" width="8" height="2" class="p-gold" />
+  <rect x="418" y="16" width="4" height="2" class="p-border" />
 
   <!-- Pixel Flanking Wings on Crest -->
-  <rect x="382" y="8" width="4" height="8" class="p-green-bright" />
-  <rect x="386" y="10" width="4" height="4" class="p-green" />
-  <rect x="410" y="10" width="4" height="4" class="p-green" />
-  <rect x="414" y="8" width="4" height="8" class="p-green-bright" />
+  <rect x="398" y="7" width="4" height="10" class="p-green-bright" />
+  <rect x="402" y="9" width="4" height="6" class="p-green" />
+  <rect x="434" y="9" width="4" height="6" class="p-green" />
+  <rect x="438" y="7" width="4" height="10" class="p-green-bright" />
 
-  <!-- Right horizontal pixel track -->
-  <rect x="460" y="10" width="340" height="4" class="p-border" />
-  <rect x="460" y="11" width="340" height="2" class="p-green" />
+  <!-- Right horizontal continuous pixel track -->
+  <rect x="448" y="10" width="392" height="4" class="p-border" />
+  <rect x="448" y="11" width="392" height="2" class="p-green" />
 
-  <!-- Right accent dots -->
-  <rect x="514" y="9" width="6" height="6" class="p-gold" />
-  <rect x="516" y="11" width="2" height="2" class="p-gold-bright" />
-  <rect x="614" y="9" width="6" height="6" class="p-green-bright" />
-  <rect x="616" y="11" width="2" height="2" class="p-white" />
-  <rect x="714" y="9" width="6" height="6" class="p-gold" />
-  <rect x="716" y="11" width="2" height="2" class="p-gold-bright" />
+  <!-- Right accent pixel gems -->
+  <rect x="502" y="8" width="8" height="8" class="p-border" />
+  <rect x="503" y="9" width="6" height="6" class="p-gold" />
+  <rect x="505" y="11" width="2" height="2" class="p-gold-bright" />
+
+  <rect x="622" y="8" width="8" height="8" class="p-border" />
+  <rect x="623" y="9" width="6" height="6" class="p-green-bright" />
+  <rect x="625" y="11" width="2" height="2" class="p-white" />
+
+  <rect x="742" y="8" width="8" height="8" class="p-border" />
+  <rect x="743" y="9" width="6" height="6" class="p-gold" />
+  <rect x="745" y="11" width="2" height="2" class="p-gold-bright" />
 </svg>

@@ -2,7 +2,7 @@
 
 <!-- RETRO TYPING BANNER -->
 <a href="https://github.com/hadidwirsty">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=750&lines=%E2%96%B6+GREETINGS%2C+ADVENTURER!+WELCOME+TO+MY+REALM;%E2%96%B6+I'M+MUHAMMAD+HADID+WIRANSETYO;%E2%96%B6+FULL-STACK+ARCHITECT+%26+ENDURANCE+RUNNER;%E2%96%B6+CRAFTING+DISTRIBUTED+SYSTEMS+%26+LOGGING+MILES" alt="Retro Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=800&color=3FB950&center=true&vCenter=true&width=650&lines=%E2%96%B6+GREETINGS%2C+ADVENTURER!;%E2%96%B6+I'M+MUHAMMAD+HADID+WIRANSETYO;%E2%96%B6+FULL-STACK+ARCHITECT+%26+RUNNER;%E2%96%B6+READY+FOR+THE+NEXT+EXPEDITION" alt="Retro Typing SVG" />
 </a>
 
 <br/><br/>
