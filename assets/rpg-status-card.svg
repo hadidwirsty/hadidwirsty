@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 480" width="100%" height="100%" shape-rendering="crispEdges" role="img" aria-labelledby="rpgCardTitle rpgCardDesc">
+  <title id="rpgCardTitle">Muhammad Hadid Wiransetyo - 16-bit RPG Character Sheet</title>
+  <desc id="rpgCardDesc">Retro RPG status card detailing Muhammad Hadid Wiransetyo's fullstack engineering stats, marathon endurance attributes, and player vitals.</desc>
+  <defs>
+    <style>
+      .bg-main { fill: #0b0f17; }
+      .bg-panel { fill: #131923; }
+      .bg-panel-inner { fill: #1a2230; }
+      .bg-bar-track { fill: #090c12; }
+      
+      .border-outer { fill: #30363d; }
+      .border-highlight { fill: #58a6ff; }
+      .border-gold { fill: #d29922; }
+      .border-green { fill: #238636; }
+      
+      .text-title { font-family: ui-monospace, 'SF Mono', Monaco, 'Courier New', monospace; font-size: 20px; font-weight: 800; fill: #ffffff; letter-spacing: 1.5px; }
+      .text-badge { font-family: ui-monospace, 'SF Mono', Monaco, 'Courier New', monospace; font-size: 11px; font-weight: 700; fill: #f1e05a; letter-spacing: 1px; }
+      .text-label { font-family: ui-monospace, 'SF Mono', Monaco, 'Courier New', monospace; font-size: 12px; font-weight: 700; fill: #8b949e; letter-spacing: 0.5px; }
+      .text-value { font-family: ui-monospace, 'SF Mono', Monaco, 'Courier New', monospace; font-size: 12px; font-weight: 600; fill: #e6edf3; }
+      .text-accent-green { font-family: ui-monospace, 'SF Mono', Monaco, 'Courier New', monospace; font-size: 12px; font-weight: 700; fill: #3fb950; }
+      .text-accent-blue { font-family: ui-monospace, 'SF Mono', Monaco, 'Courier New', monospace; font-size: 12px; font-weight: 700; fill: #58a6ff; }
+      .text-accent-gold { font-family: ui-monospace, 'SF Mono', Monaco, 'Courier New', monospace; font-size: 12px; font-weight: 700; fill: #d29922; }
+      .text-accent-purple { font-family: ui-monospace, 'SF Mono', Monaco, 'Courier New', monospace; font-size: 12px; font-weight: 700; fill: #bc8cff; }
+      .text-sub { font-family: ui-monospace, 'SF Mono', Monaco, 'Courier New', monospace; font-size: 11px; fill: #7d8590; }
+      .text-status { font-family: ui-monospace, 'SF Mono', Monaco, 'Courier New', monospace; font-size: 11px; font-weight: 700; fill: #3fb950; letter-spacing: 1px; }
+
+      .hp-bar { fill: #2ea043; }
+      .mp-bar { fill: #388bfd; }
+      .stm-bar { fill: #d29922; }
+      .exp-bar { fill: #8957e5; }
+    </style>
+  </defs>
+
+  <!-- 16-BIT RETRO OUTER BEVEL BORDER -->
+  <!-- Outer Shadow / Border -->
+  <rect x="0" y="4" width="840" height="472" class="border-outer" />
+  <rect x="4" y="0" width="832" height="480" class="border-outer" />
+  
+  <!-- Outer Bevel Corner Steps -->
+  <rect x="4" y="4" width="832" height="472" class="bg-main" />
+  
+  <!-- Frame Accent Inner Border -->
+  <rect x="10" y="10" width="820" height="460" class="border-outer" fill="none" stroke="#21262d" stroke-width="2" />
+  <rect x="12" y="12" width="816" height="2" class="border-highlight" />
+  <rect x="12" y="466" width="816" height="2" class="border-green" />
+
+  <!-- HEADER BOX -->
+  <rect x="24" y="24" width="792" height="110" class="bg-panel" />
+  <rect x="24" y="24" width="792" height="2" class="border-outer" />
+  <rect x="24" y="132" width="792" height="2" class="border-outer" />
+
+  <!-- Pixel Level Badge -->
+  <rect x="36" y="36" width="168" height="24" class="bg-panel-inner" />
+  <rect x="34" y="38" width="2" height="20" class="border-gold" />
+  <rect x="204" y="38" width="2" height="20" class="border-gold" />
+  <text x="44" y="52" class="text-badge">&#9670; LEVEL 2X ADVENTURER &#9670;</text>
+
+  <!-- Title & Coordinates -->
+  <text x="216" y="54" class="text-title">MUHAMMAD HADID WIRANSETYO</text>
+  <text x="704" y="52" class="text-badge">[SAVE POINT ID]</text>
+
+  <!-- Meta Info Grid -->
+  <text x="38" y="82" class="text-label">CLASS     :</text>
+  <text x="126" y="82" class="text-value">Full-Stack Architect</text>
+  <text x="310" y="82" class="text-sub">(Go, TypeScript, Cloud Systems)</text>
+
+  <text x="38" y="102" class="text-label">SUB-CLASS :</text>
+  <text x="126" y="102" class="text-value">Endurance Runner</text>
+  <text x="310" y="102" class="text-sub">(Marathoner / Aerobic Engine)</text>
+
+  <text x="540" y="82" class="text-label">GUILD     :</text>
+  <text x="618" y="82" class="text-value">Semarang &amp; Yogyakarta, ID</text>
+
+  <text x="540" y="102" class="text-label">ALIGNMENT :</text>
+  <text x="618" y="102" class="text-accent-green">Clean Code &amp; High Output</text>
+
+  <!-- LEFT PANEL: VITALS & BARS -->
+  <rect x="24" y="146" width="386" height="264" class="bg-panel" />
+  <rect x="24" y="146" width="386" height="2" class="border-outer" />
+  <rect x="36" y="158" width="362" height="20" class="bg-panel-inner" />
+  <text x="44" y="172" class="text-badge">&#9632; PLAYER VITALS &amp; ENERGY BARS</text>
+
+  <!-- HP BAR -->
+  <text x="38" y="202" class="text-accent-green">HP</text>
+  <text x="66" y="202" class="text-sub">Energy</text>
+  <text x="306" y="202" class="text-value">100 / 100</text>
+  <!-- Bar Container -->
+  <rect x="38" y="208" width="358" height="14" class="bg-bar-track" />
+  <!-- Pixel Segmented Fill -->
+  <rect x="40" y="210" width="354" height="10" class="hp-bar" />
+  <rect x="40" y="210" width="354" height="2" fill="#4ac26b" />
+
+  <!-- MP BAR -->
+  <text x="38" y="246" class="text-accent-blue">MP</text>
+  <text x="66" y="246" class="text-sub">Problem Solving</text>
+  <text x="314" y="246" class="text-value">99 / 99</text>
+  <!-- Bar Container -->
+  <rect x="38" y="252" width="358" height="14" class="bg-bar-track" />
+  <rect x="40" y="254" width="354" height="10" class="mp-bar" />
+  <rect x="40" y="254" width="354" height="2" fill="#79c0ff" />
+
+  <!-- STM BAR -->
+  <text x="38" y="290" class="text-accent-gold">STM</text>
+  <text x="68" y="290" class="text-sub">Marathon Dist.</text>
+  <text x="290" y="290" class="text-value">42.195 / 42.195 km</text>
+  <!-- Bar Container -->
+  <rect x="38" y="296" width="358" height="14" class="bg-bar-track" />
+  <rect x="40" y="298" width="354" height="10" class="stm-bar" />
+  <rect x="40" y="298" width="354" height="2" fill="#e3b341" />
+
+  <!-- EXP BAR -->
+  <text x="38" y="334" class="text-accent-purple">EXP</text>
+  <text x="68" y="334" class="text-sub">Senior Progress</text>
+  <text x="318" y="334" class="text-value">88 / 100%</text>
+  <!-- Bar Container -->
+  <rect x="38" y="340" width="358" height="14" class="bg-bar-track" />
+  <rect x="40" y="342" width="310" height="10" class="exp-bar" />
+  <rect x="40" y="342" width="310" height="2" fill="#d2a8ff" />
+
+  <!-- Vitals Summary Note -->
+  <text x="38" y="386" class="text-sub">&#9889; BUFF ACTIVE: Highly caffeinated &amp; consistent training block</text>
+
+
+  <!-- RIGHT PANEL: ATTRIBUTES MATRIX -->
+  <rect x="430" y="146" width="386" height="264" class="bg-panel" />
+  <rect x="430" y="146" width="386" height="2" class="border-outer" />
+  <rect x="442" y="158" width="362" height="20" class="bg-panel-inner" />
+  <text x="450" y="172" class="text-badge">&#9632; CORE ATTRIBUTES &amp; COMBAT SKILLS</text>
+
+  <!-- INT STAT -->
+  <rect x="442" y="190" width="60" height="36" class="bg-panel-inner" />
+  <text x="452" y="213" class="text-accent-blue" font-size="14px">INT</text>
+  <text x="510" y="203" class="text-value">+95 Backend Engineering</text>
+  <text x="510" y="219" class="text-sub">Go, Node.js, Distributed Systems &amp; APIs</text>
+
+  <!-- DEX STAT -->
+  <rect x="442" y="238" width="60" height="36" class="bg-panel-inner" />
+  <text x="452" y="261" class="text-accent-green" font-size="14px">DEX</text>
+  <text x="510" y="251" class="text-value">+90 Frontend Craftsmanship</text>
+  <text x="510" y="267" class="text-sub">React, TypeScript, Next.js, Responsive UI</text>
+
+  <!-- VIT STAT -->
+  <rect x="442" y="286" width="60" height="36" class="bg-panel-inner" />
+  <text x="452" y="309" class="text-accent-gold" font-size="14px">VIT</text>
+  <text x="510" y="299" class="text-value">+99 Endurance &amp; Discipline</text>
+  <text x="510" y="315" class="text-sub">Marathon Grit, Daily Habits, Resilience</text>
+
+  <!-- WIS STAT -->
+  <rect x="442" y="334" width="60" height="36" class="bg-panel-inner" />
+  <text x="452" y="357" class="text-accent-purple" font-size="14px">WIS</text>
+  <text x="510" y="347" class="text-value">+88 System Architecture</text>
+  <text x="510" y="363" class="text-sub">TDD, Clean Architecture, MCP Protocols</text>
+
+  <!-- Attribute Note -->
+  <text x="442" y="396" class="text-sub">&#9874; SPECIAL TRAIT: Dual-wielding Go &amp; TypeScript</text>
+
+
+  <!-- FOOTER STATUS STRIP -->
+  <rect x="24" y="420" width="792" height="36" class="bg-panel" />
+  <rect x="24" y="420" width="792" height="1" class="border-outer" />
+  <text x="38" y="442" class="text-status">&#9679; STATUS: ONLINE &amp; CRAFTING</text>
+  <text x="280" y="442" class="text-value">CURRENT QUEST: Scalable Distributed Systems &amp; Marathon Training</text>
+</svg>
