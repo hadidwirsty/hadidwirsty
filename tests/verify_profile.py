@@ -22,7 +22,7 @@ def test_rpg_status_card():
     # Required RPG elements
     required_keywords = [
         "MUHAMMAD HADID WIRANSETYO",
-        "Full-Stack Architect",
+        "Frontend Architect",
         "Endurance Runner",
         "HP", "MP", "STM", "EXP",
         "INT", "DEX", "VIT", "WIS"
