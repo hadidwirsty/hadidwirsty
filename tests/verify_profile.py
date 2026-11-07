@@ -27,8 +27,12 @@ def test_rpg_status_card():
         "HP", "MP", "STM", "EXP",
         "INT", "DEX", "VIT", "WIS"
     ]
-    for kw in required_keywords:
-        assert kw in content, f"Missing required RPG keyword: {kw}"
+    # Location verification
+    assert "Semarang, Indonesia" in content, "Missing 'Semarang, Indonesia' in rpg-status-card.svg"
+    assert "Yogyakarta, ID" not in content, "'Yogyakarta, ID' should be removed from rpg-status-card.svg"
+    
+    # Half marathon verification
+    assert "21.1" in content, "Missing Half Marathon 21.1 km in rpg-status-card.svg"
 
 def test_readme_structure():
     path = Path("README.md")
