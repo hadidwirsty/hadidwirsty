@@ -98,14 +98,14 @@
 
 <div align="center">
   <a href="https://github.com/hadidwirsty">
-    <img src="https://github-readme-stats.vercel.app/api?username=hadidwirsty&show_icons=true&theme=tokyonight&bg_color=0b0f17&border_color=30363d&title_color=3fb950&text_color=e6edf3&icon_color=d29922&hide_border=false" alt="Hadid's GitHub Stats" height="165" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hadidwirsty&show_icons=true&theme=tokyonight&bg_color=0b0f17&border_color=30363d&title_color=3fb950&text_color=e6edf3&icon_color=d29922&hide_border=false" alt="Hadid's GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/hadidwirsty">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadidwirsty&theme=tokyonight&background=0b0f17&border=30363d&stroke=30363d&ring=3fb950&fire=d29922&currStreakLabel=3fb950" alt="Hadid's GitHub Streak" height="165" />
   </a>
   <br/><br/>
   <a href="https://github.com/hadidwirsty">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadidwirsty&layout=compact&theme=tokyonight&bg_color=0b0f17&border_color=30363d&title_color=3fb950&text_color=e6edf3&hide_border=false" alt="Hadid's Top Languages" height="165" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hadidwirsty&layout=compact&theme=tokyonight&bg_color=0b0f17&border_color=30363d&title_color=3fb950&text_color=e6edf3&hide_border=false" alt="Hadid's Top Languages" height="165" />
   </a>
 </div>
 

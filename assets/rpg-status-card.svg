@@ -152,7 +152,7 @@
 
   <!-- Trait Box -->
   <rect x="442" y="372" width="362" height="36" class="bg-panel-inner" />
-  <text x="454" y="394" class="text-sub" font-size="10.5px">&#9874; SPECIAL TRAIT: Complex State Engine, Web Security &amp; 297+ Tests</text>
+  <text x="452" y="394" class="text-sub" font-size="9.5px">&#9874; SPECIAL TRAIT: Complex State, Web Security &amp; 297+ Tests</text>
 
 
   <!-- ==================== FOOTER STATUS STRIP ==================== -->
