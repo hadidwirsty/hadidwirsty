@@ -2,7 +2,7 @@
 
 <!-- RETRO TYPING BANNER -->
 <a href="https://github.com/hadidwirsty">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=800&color=3FB950&center=true&vCenter=true&width=720&lines=%E2%96%B6+GREETINGS%2C+ADVENTURER!;%E2%96%B6+I'M+MUHAMMAD+HADID+WIRANSETYO;%E2%96%B6+FRONTEND+ARCHITECT+(REACT+%26+NEXT.JS);%E2%96%B6+21.1K+HALF+MARATHON+FINISHER+%F0%9F%8F%83;%E2%96%B6+ENGINEERING+ENTERPRISE+WEB+APPS" alt="Retro Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=800&color=3FB950&center=true&vCenter=true&width=720&lines=%E2%96%B6+GREETINGS%2C+ADVENTURER!;%E2%96%B6+I'M+MUHAMMAD+HADID+WIRANSETYO;%E2%96%B6+FRONTEND+ARCHITECT+(REACT+%26+NEXT.JS);%E2%96%B6+HALF+MARATHONER+(PB+02%3A38%3A15);%E2%96%B6+ROAD+TO+42.2K+FULL+MARATHON+%F0%9F%8F%83;%E2%96%B6+CRAFTING+ENTERPRISE+WEB+APPS" alt="Retro Typing SVG" />
 </a>
 
 <br/><br/>
@@ -90,29 +90,29 @@
 
 #### 🏢 PT Sigma Cipta Caraka (Telkomsigma) — Junior Programmer
 *Nov 2024 – Oct 2026 | Contract*
-> Mengembangkan dan mengamankan antarmuka pada **10 aplikasi web enterprise** (B2B dan internal Telkom Group) menggunakan Next.js, React, Angular, Vue/Nuxt, dan Blazor dalam siklus Agile/Scrum harian lintas fungsi:
-* **Whistleblowing System (Internal WBS):** Arsitektur frontend WBS perusahaan (Next.js App Router, React 19, TypeScript, Tailwind v4, TanStack Query); dasbor eksekutif Recharts, tabel verifikasi laporan, dan lapisan keamanan unggah berkas berbasis inspeksi biner *magic bytes* & integrasi antivirus ClamAV.
-* **MONARA (Command Post & Holiday Monitoring):** Dasbor operasional Service Desk (Next.js, React 19, Radix UI); pemantauan status tiket via *automated polling* (interval 30 detik), Recharts, data master sekitar 40 unit penyedia layanan, dan validasi jadwal pergantian tugas (*work shift*).
-* **Info Tender (LPSE & SiRUP):** Intelijen pasar pengadaan barang/jasa pemerintah (React 18, Vite, Radix UI); analitik tender Recharts, katalog LPSE & SiRUP TanStack Table, komparasi data *side-by-side*, konfigurasi scraping KBLI, serta pelacak durasi sesi (*dwell-tracker*).
-* **Alisa 2.0 (Smart Contracting):** Modul Smart Contracting dan Micro-Frontend Host Shell (Module Federation via Vite, React 19, Ant Design 5, TanStack Router); alur telaah hukum pesanan, generator formulir *drag-and-drop*, dan pratinjau PDF di sisi klien (`@react-pdf/renderer`).
-* **IS-WARE (Proof of Concept – PT KBI):** Purwarupa sistem manajemen resi gudang terintegrasi dalam sprint 2 minggu untuk PT Kliring Berjangka Indonesia (Danareksa Group); RBAC 5 peran, alur penerbitan resi & audit trail, membawa proposal teknis meraih **Peringkat #1 Evaluasi Teknis Klien**.
-* **IMAPS (BPJS Kesehatan):** Sistem manajemen aset tetap nasional BPJS Kesehatan (Angular 18, Ant Design NG-ZORRO); direktori aset, persetujuan bertingkat (*multi-tab approvals*), alur usulan penghapusan, dan penguatan header anti-clickjacking.
-* **CART (Continuous Automated Red Teaming):** Platform intelijen ancaman siber dan manajemen kerentanan (Nuxt 3, Vue.js, Tailwind, Pinia); konfigurasi paket asesmen keamanan, modal template pemindaian, dan validasi skema form (Vee-Validate + Yup).
-* **PIS MARS (Pertamina International Shipping):** Portal CMS marine berbasis Blazor Server (C#, .NET 8); standardisasi pustaka komponen Oktaf.UI Razor lintas ratusan berkas, proteksi *null deserialization*, navigasi StickyMenu, dan simulasi middleware auth lokal lintas 6 mikroservis.
-* **Enterprise Web Security Hardening:** Remediasi kerentanan pada portal operasional (Vue.js, Nuxt 3); composable sanitasi data (`useSanitize`, `useSvgSanitizer`) dan Content Security Policy (CSP) headers terhadap XSS, sanitasi URL login redirect (mitigasi Open Redirect), dan SSR guards kompatibel Node 22.
+> Developed and secured frontend interfaces across **10 enterprise web applications** (B2B and internal Telkom Group) using Next.js, React, Angular, Vue/Nuxt, and Blazor within daily Agile/Scrum cross-functional cycles:
+* **Whistleblowing System (Internal WBS):** Frontend architecture for corporate ethics & governance violation management (Next.js App Router, React 19, TypeScript, Tailwind v4, TanStack Query); executive Recharts analytics, multi-stage case assessment data tables, and an evidence upload security layer with binary *magic bytes* validation and ClamAV antivirus scanning integration.
+* **MONARA (Command Post & Holiday Monitoring):** Operational Service Desk monitoring dashboard (Next.js, React 19, Radix UI); real-time ticket status monitoring via automated polling (30-second intervals), Recharts metrics, master data for ~40 service provider units, and duty work shift schedule validation.
+* **Info Tender (LPSE & SiRUP):** Government procurement market intelligence platform (React 18, Vite, Radix UI); tender analytics (Recharts), LPSE & SiRUP procurement catalogs (TanStack Table), side-by-side bid comparison, KBLI scraping configuration, and automated route dwell-time tracking.
+* **Alisa 2.0 (Smart Contracting):** Smart Contracting module & Micro-Frontend Host Shell (Module Federation via Vite, React 19, Ant Design 5, TanStack Router); legal review workflows, drag-and-drop form builder, and client-side PDF document generation (`@react-pdf/renderer`).
+* **IS-WARE (Proof of Concept – PT KBI):** Integrated warehouse receipt management prototype delivered in a 2-week sprint for PT Kliring Berjangka Indonesia (Danareksa Group); 5-role RBAC, receipt issuance workflows & audit trails, earning technical proposal **Rank #1 in Client Technical Evaluation**.
+* **IMAPS (BPJS Kesehatan):** Nationwide enterprise fixed-asset lifecycle management system for BPJS Kesehatan (Angular 18, Ant Design NG-ZORRO); asset directory, multi-workflow approvals (*multi-tab approvals*), asset disposal workflows, and anti-clickjacking security header hardening.
+* **CART (Continuous Automated Red Teaming):** Cyber threat intelligence and vulnerability management platform (Nuxt 3, Vue.js, Tailwind, Pinia); security testing package configuration, client target domain management, scan template modals, and schema-validated forms (Vee-Validate + Yup).
+* **PIS MARS (Pertamina International Shipping):** Marine CMS web portal built with Blazor Server (C#, .NET 8); standardizing Oktaf.UI Razor base component library across hundreds of files, null deserialization safeguards, StickyMenu navigation, and local auth simulation middleware across 6 microservices.
+* **Enterprise Web Security Hardening:** Vulnerability remediation on enterprise operational portals (Vue.js, Nuxt 3); reusable data sanitization composables (`useSanitize`, `useSvgSanitizer`) and Content Security Policy (CSP) headers against XSS, login redirect URL sanitization (Open Redirect mitigation), and Node 22 compatible SSR route guards.
 
 #### 🛒 Tumbuhin Digital — Frontend Engineer
 *May 2026 – Jun 2026 | Remote · Part-Time*
 > **E-Commerce Bulk Orders Platform:**
-* Merancang manajemen state keranjang belanja optimistik (*optimistic UI updates*) dengan mekanisme *rollback* otomatis saat terjadi gangguan jaringan (Next.js 16 App Router, React 19, TypeScript, Tailwind v4, Zustand, TanStack Query).
-* Mengembangkan alur checkout multi-tahap, verifikasi termin pembayaran bertahap (*split payment*), panel pemenuhan pesanan berbutir halus (*item-level fulfillment*), deduplikasi kartu resi pengiriman, sanitasi input sisi klien (`isomorphic-dompurify`), dan analitik Recharts.
+* Architected optimistic cart state management (*optimistic UI updates*) with automated rollback mechanisms during network disruptions (Next.js 16 App Router, React 19, TypeScript, Tailwind v4, Zustand, TanStack Query).
+* Developed multi-step checkout workflows, split payment settlement verification, granular item-level order fulfillment panel, shipping airway bill card de-duplication, client-side input sanitization (`isomorphic-dompurify`), and Recharts analytics.
 
 #### 📡 Telkom Indonesia — Developer
 *Jan 2023 – Dec 2023 | Remote · Internship*
 > **Netmonk Analytics Prototype:**
-* Membangun purwarupa analitik operasional telekomunikasi untuk ekosistem Netmonk (React, Vite, Tailwind, Redux Toolkit, Node.js Express, MongoDB) yang memantau order fulfillment di 7 TREG dan 40+ Witel.
-* Merancang arsitektur keamanan akses dasbor tertanam Metabase menggunakan token JWT bertanda tangan kriptografis dengan masa kedaluwarsa 10 menit (**topik skripsi S1 di UGM, IPK 3.74/4.00**).
-* Mengimplementasikan autentikasi dual-token (refresh token rotation & silent re-auth via RTK Query) serta modernisasi toolchain Vite 6 dan remediasi 101 kerentanan dependensi.
+* Built a telecommunication operational analytics prototype for the Netmonk ecosystem (React, Vite, Tailwind, Redux Toolkit, Node.js Express, MongoDB) monitoring service order fulfillment across 7 regional divisions (TREG) and 40+ branch offices (Witel).
+* Designed access security architectures for embedded Metabase dashboards leveraging cryptographic JWT signing with 10-minute expiration windows (defended as undergraduate thesis at UGM).
+* Implemented dual-token authentication (refresh token rotation & silent re-authentication via RTK Query) along with Vite 6 toolchain modernization and remediation of 101 nested dependency vulnerabilities.
 
 <br/>
 
@@ -130,10 +130,10 @@
 
 | Quest / Artifact | Focus | Highlights & Architecture | Status |
 | :--- | :--- | :--- | :---: |
-| 🚚 **[HW Trans Fleet (hiblow-fleet)](https://github.com/hadidwirsty/hiblow-fleet)** | Operational Logistics & Analytics | Sistem manajemen armada semen curah: omset ritase real-time, rasio BBM & operasional supir, margin PnL, **100% React Server Components (RSC)**, Server Actions, Drizzle ORM (PostgreSQL), dan **297 unit tests otomatis (Vitest, 100% pass)**. | `ACTIVE` |
-| ⌚ **[garmin-connect-mcp](https://github.com/hadidwirsty/garmin-connect-mcp)** | AI MCP Server / Biometric Telemetry | Model Context Protocol server untuk Garmin Connect Personal API: analisis aktivitas lari, FIT telemetry streams, sleep hypnogram, overnight HRV, dan body battery (`TypeScript`, `MCP SDK`). | `COMPLETED` |
-| 🛡️ **[intervals-icu-mcp](https://github.com/hadidwirsty/intervals-icu-mcp)** | AI MCP Server / Endurance Analytics | Integrasi server *Model Context Protocol* menghubungkan agen AI dengan platform analitik ketahanan **Intervals.icu** untuk evaluasi fisiologis atlet lari secara real-time (`TypeScript`, `MCP SDK`). | `COMPLETED` |
-| 🌐 **[Portfolio & Living CV](https://hadidwirsty.vercel.app)** | Interactive Bilingual Web Experience | Web portofolio interaktif dan CV kurasi bilingual (ID/EN) yang dibangun dengan Next.js 16, React 19, TypeScript, dan Tailwind CSS v4. | `DEPLOYED` |
+| 🚚 **[HW Trans Fleet (hiblow-fleet)](https://github.com/hadidwirsty/hiblow-fleet)** | Operational Logistics & Analytics | Bulk cement fleet management system: real-time trip revenue, fuel & driver expense tracking, PnL margins, **100% React Server Components (RSC)**, Server Actions, Drizzle ORM (PostgreSQL), and **297 automated unit tests (Vitest, 100% pass)**. | `ACTIVE` |
+| ⌚ **[garmin-connect-mcp](https://github.com/hadidwirsty/garmin-connect-mcp)** | AI MCP Server / Biometric Telemetry | Model Context Protocol server for Garmin Connect Personal API: running activity analytics, FIT telemetry streams, sleep hypnograms, overnight HRV, and body battery (`TypeScript`, `MCP SDK`). | `COMPLETED` |
+| 🛡️ **[intervals-icu-mcp](https://github.com/hadidwirsty/intervals-icu-mcp)** | AI MCP Server / Endurance Analytics | Model Context Protocol integration connecting AI agents with **Intervals.icu** endurance analytics platform for real-time athlete physiological evaluation (`TypeScript`, `MCP SDK`). | `COMPLETED` |
+| 🌐 **[Portfolio & Living CV](https://hadidwirsty.vercel.app)** | Interactive Bilingual Web Experience | Interactive web portfolio and bilingual curated CV (ID/EN) built with Next.js 16, React 19, TypeScript, and Tailwind CSS v4. | `DEPLOYED` |
 
 <br/>
 
@@ -147,14 +147,14 @@
 
 <div align="center">
   <a href="https://github.com/hadidwirsty">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hadidwirsty&show_icons=true&theme=tokyonight&bg_color=0b0f17&border_color=30363d&title_color=3fb950&text_color=e6edf3&icon_color=d29922&hide_border=false" alt="Hadid's GitHub Stats" height="165" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=hadidwirsty&show_icons=true&theme=tokyonight&bg_color=0b0f17&border_color=30363d&title_color=3fb950&text_color=e6edf3&icon_color=d29922" alt="Hadid's GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/hadidwirsty">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadidwirsty&theme=tokyonight&background=0b0f17&border=30363d&stroke=30363d&ring=3fb950&fire=d29922&currStreakLabel=3fb950" alt="Hadid's GitHub Streak" height="165" />
   </a>
   <br/><br/>
   <a href="https://github.com/hadidwirsty">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hadidwirsty&layout=compact&theme=tokyonight&bg_color=0b0f17&border_color=30363d&title_color=3fb950&text_color=e6edf3&hide_border=false" alt="Hadid's Top Languages" height="165" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hadidwirsty&layout=compact&theme=tokyonight&bg_color=0b0f17&border_color=30363d&title_color=3fb950&text_color=e6edf3" alt="Hadid's Top Languages" height="165" />
   </a>
 </div>
 
@@ -187,8 +187,8 @@
   * 👥 **Head of Talent & Interest Division** — HIMAKOM UGM (Feb 2022 – Feb 2023)
 * 🌐 **Online Grimoire / Portfolio:** [hadidwirsty.vercel.app](https://hadidwirsty.vercel.app)
 * 💼 **Guild Network:** [linkedin.com/in/hadidwirsty](https://linkedin.com/in/hadidwirsty)
-* 🏃 **Athletic Discipline:** Half Marathoner (21.1 km Finisher) & Endurance Enthusiast
-* 💬 **Quest Inquiries:** Terbuka untuk diskusi arsitektur *Frontend Engineering*, *Design Systems*, *Test-Driven Development (TDD)*, dan integrasi AI tooling (MCP).
+* 🏃 **Athletic Discipline:** Half Marathoner (PB: 02:38:15 — Malioboro Run 2026) & Road to 42.2K Full Marathon
+* 💬 **Quest Inquiries:** Open for technical discussions on *Frontend Architecture*, *Design Systems*, *Test-Driven Development (TDD)*, web security hardening, and AI tooling (MCP).
 
 <br/>
 

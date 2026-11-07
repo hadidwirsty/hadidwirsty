@@ -31,8 +31,9 @@ def test_rpg_status_card():
     assert "Semarang, Indonesia" in content, "Missing 'Semarang, Indonesia' in rpg-status-card.svg"
     assert "Yogyakarta, ID" not in content, "'Yogyakarta, ID' should be removed from rpg-status-card.svg"
     
-    # Half marathon verification
-    assert "21.1" in content, "Missing Half Marathon 21.1 km in rpg-status-card.svg"
+    # Marathon & PB verification
+    assert "21.1 / 42.2 km" in content, "Missing Marathon progress 21.1 / 42.2 km in rpg-status-card.svg"
+    assert "02:38:15" in content, "Missing PB 02:38:15 in rpg-status-card.svg"
 
 def test_readme_structure():
     path = Path("README.md")
@@ -47,13 +48,16 @@ def test_readme_structure():
         "hiblow-fleet",
         "intervals-icu-mcp",
         "garmin-connect-mcp",
-        "linkedin.com/in/hadidwirsty"
+        "linkedin.com/in/hadidwirsty",
+        "github-readme-stats-fast.vercel.app",
+        "02:38:15"
     ]
     for sec in sections:
         assert sec.lower() in content.lower(), f"Missing section/link in README: {sec}"
         
     # NDA Compliance check: Momiji or private vendor must not be present
     assert "momiji" not in content.lower(), "NDA Violation: 'momiji' found in README.md"
+    assert "ipk" not in content.lower(), "GPA/IPK should not be displayed in README.md"
 
 if __name__ == "__main__":
     tests = [test_pixel_divider, test_rpg_status_card, test_readme_structure]

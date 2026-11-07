@@ -99,11 +99,11 @@
 
   <!-- STM BAR -->
   <text x="40" y="288" class="text-accent-gold">STM</text>
-  <text x="74" y="288" class="text-sub">Half Marathon Base</text>
-  <text x="398" y="288" text-anchor="end" class="text-value">21.1 / 21.1 km</text>
+  <text x="74" y="288" class="text-sub">Road to Marathon (HM: 21.1K)</text>
+  <text x="398" y="288" text-anchor="end" class="text-value">21.1 / 42.2 km</text>
   <rect x="40" y="294" width="358" height="12" class="bg-bar-track" />
-  <rect x="42" y="296" width="354" height="8" class="stm-bar" />
-  <rect x="42" y="296" width="354" height="2" fill="#f1e05a" />
+  <rect x="42" y="296" width="177" height="8" class="stm-bar" />
+  <rect x="42" y="296" width="177" height="2" fill="#f1e05a" />
 
   <!-- EXP BAR -->
   <text x="40" y="330" class="text-accent-purple">EXP</text>
@@ -115,7 +115,7 @@
 
   <!-- Vitals Buff Box -->
   <rect x="36" y="372" width="362" height="36" class="bg-panel-inner" />
-  <text x="48" y="394" class="text-sub" font-size="11px">&#9889; BUFF: Highly Caffeinated &amp; Aerobic Base</text>
+  <text x="48" y="394" class="text-sub" font-size="10.5px">&#9889; PB: 02:38:15 (HM Malioboro Run 2026) &#8226; Road to 42.2K</text>
 
 
   <!-- ==================== RIGHT PANEL: ATTRIBUTES ==================== -->
@@ -159,5 +159,5 @@
   <rect x="24" y="434" width="792" height="42" class="bg-panel" />
   <rect x="24" y="434" width="792" height="1" class="border-outer" />
   <text x="40" y="460" class="text-status">&#9679; STATUS: ONLINE &amp; CRAFTING</text>
-  <text x="802" y="460" text-anchor="end" class="text-value" font-size="11.5px">QUEST: Enterprise Frontend Systems &amp; Half Marathon Finisher</text>
+  <text x="802" y="460" text-anchor="end" class="text-value" font-size="11.5px">QUEST: Enterprise Frontend Systems &amp; 42.2K Marathon</text>
 </svg>
