@@ -50,6 +50,7 @@ def test_readme_structure():
         "garmin-connect-mcp",
         "linkedin.com/in/hadidwirsty",
         "github-readme-stats-fast.vercel.app",
+        "skillicons.dev",
         "02:38:15"
     ]
     for sec in sections:

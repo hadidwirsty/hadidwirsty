@@ -25,53 +25,37 @@
 [ INVENTORY SLOTS: EQUIPPED GEAR & ARTIFACTS — CURATED FROM CV ]
 ```
 
-* **⚔️ Core Languages & Frameworks (Primary Weapons):**  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React_19%2F18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js_(App_Router%2C_RSC)-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,redux,pinia,vitest,jest,angular,vue,nuxtjs,dotnet,cs,nodejs,postgres,docker,aws,git,gitlab,vite,postman&perline=12" alt="Hadid's Core Tech Stack (SkillIcons)" />
+  </a>
+</div>
 
-* **🎨 UI & Styling (Armor & Aesthetics):**  
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_(v3%2Fv4)-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/>
+
+* **🎨 Specialized UI & Component Systems:**  
   ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui_(@base--ui)-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
   ![Ant Design 5](https://img.shields.io/badge/Ant_Design_5-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
   ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
   ![Base UI](https://img.shields.io/badge/Base_UI-000000?style=for-the-badge)
   ![Responsive Design](https://img.shields.io/badge/Responsive_Web_Design-2EA043?style=for-the-badge)
 
-* **🪄 State & Data Management (Spellbook):**  
+* **🪄 State Architecture, Forms & Data Tables:**  
   ![TanStack Query](https://img.shields.io/badge/TanStack_Query_(React_Query)-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
   ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=redux&logoColor=white)
-  ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
   ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
   ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
   ![TanStack Table](https://img.shields.io/badge/TanStack_Table-000000?style=for-the-badge)
   ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge)
 
-* **🧪 Testing & Web Security Hardening (Battle Shields):**  
-  ![Vitest](https://img.shields.io/badge/Vitest-297_Tests_Passed_(100%25)-729B1B?style=for-the-badge&logo=vitest&logoColor=white)
-  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+* **🧪 Testing & Enterprise Web Security Hardening:**  
   ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
   ![DOM Sanitization](https://img.shields.io/badge/DOM_Sanitization-XSS_Hardening-2EA043?style=for-the-badge)
   ![HTTP CSP Headers](https://img.shields.io/badge/Security-HTTP_CSP_Headers-388BFD?style=for-the-badge)
   ![Binary Magic Bytes](https://img.shields.io/badge/File_Upload-Magic_Bytes_Validation-D29922?style=for-the-badge)
 
-* **🛡️ Cross-Framework & Backend Integration (Off Hand):**  
-  ![Angular](https://img.shields.io/badge/Angular_17_(RxJS)-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js_3_%2F_Nuxt_3_(Pinia)-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![Blazor](https://img.shields.io/badge/Blazor_Server_(C%23%2F.NET_8)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+* **⚡ Modern ORM & AI Tooling:**  
   ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-
-* **⚙️ Tools & Cloud Ecosystem (Supporting Relics):**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
   ![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8957E5?style=for-the-badge&logo=anthropic&logoColor=white)
 
 <br/>
