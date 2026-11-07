@@ -40,11 +40,16 @@ def test_readme_structure():
         "assets/pixel-divider.svg",
         "inventory",
         "quest",
+        "hiblow-fleet",
         "intervals-icu-mcp",
+        "garmin-connect-mcp",
         "linkedin.com/in/hadidwirsty"
     ]
     for sec in sections:
         assert sec.lower() in content.lower(), f"Missing section/link in README: {sec}"
+        
+    # NDA Compliance check: Momiji or private vendor must not be present
+    assert "momiji" not in content.lower(), "NDA Violation: 'momiji' found in README.md"
 
 if __name__ == "__main__":
     tests = [test_pixel_divider, test_rpg_status_card, test_readme_structure]

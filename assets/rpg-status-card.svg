@@ -135,14 +135,14 @@
   <!-- WIS STAT (STATE & ARCHITECTURE) -->
   <rect x="442" y="236" width="46" height="32" class="bg-panel-inner" stroke="#bc8cff" stroke-width="1" />
   <text x="465" y="257" text-anchor="middle" class="text-accent-purple" font-size="13px" font-weight="800">WIS</text>
-  <text x="498" y="248" class="text-value">+94 State &amp; Data Architecture</text>
-  <text x="498" y="263" class="text-sub">TanStack Query, Zustand, Recharts, shadcn/ui</text>
+  <text x="498" y="248" class="text-value">+94 State &amp; Automated Testing</text>
+  <text x="498" y="263" class="text-sub">TanStack, Zustand, Vitest (297 Tests), Recharts</text>
 
   <!-- INT STAT (FULLSTACK & SYSTEMS) -->
   <rect x="442" y="278" width="46" height="32" class="bg-panel-inner" stroke="#388bfd" stroke-width="1" />
   <text x="465" y="299" text-anchor="middle" class="text-accent-blue" font-size="13px" font-weight="800">INT</text>
   <text x="498" y="290" class="text-value">+92 Full-Stack &amp; Integration</text>
-  <text x="498" y="305" class="text-sub">Go REST DTOs, Node.js, Web Locks API, MCP</text>
+  <text x="498" y="305" class="text-sub">Node.js, PostgreSQL, Web Security &amp; MCP</text>
 
   <!-- VIT STAT (ENDURANCE & DISCIPLINE) -->
   <rect x="442" y="320" width="46" height="32" class="bg-panel-inner" stroke="#d29922" stroke-width="1" />
@@ -152,7 +152,7 @@
 
   <!-- Trait Box -->
   <rect x="442" y="372" width="362" height="36" class="bg-panel-inner" />
-  <text x="454" y="394" class="text-sub" font-size="11px">&#9874; SPECIAL TRAIT: Design Systems &amp; Complex State Engine</text>
+  <text x="454" y="394" class="text-sub" font-size="10.5px">&#9874; SPECIAL TRAIT: Complex State Engine, Web Security &amp; 297+ Tests</text>
 
 
   <!-- ==================== FOOTER STATUS STRIP ==================== -->

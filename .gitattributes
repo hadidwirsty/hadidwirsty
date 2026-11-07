@@ -1,0 +1,6 @@
+# GitHub Linguist overrides
+# Treat tests directory as vendored/documentation so it doesn't skew repository language statistics to Python
+tests/** linguist-vendored
+tests/** linguist-documentation
+docs/** linguist-documentation
+assets/** linguist-documentation

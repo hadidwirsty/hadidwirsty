@@ -33,7 +33,7 @@
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_(v3%2Fv4)-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-* **🪄 Spellbook (State Management & Data Visualization):**  
+* **🪄 Spellbook (State Architecture & Data Visualization):**  
   ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
   ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=redux&logoColor=white)
   ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -41,13 +41,21 @@
   ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge)
   ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
+* **🧪 Battle Shields (Automated Testing & Web Security Hardening):**  
+  ![Vitest](https://img.shields.io/badge/Vitest-297_Tests_Passed-729B1B?style=for-the-badge&logo=vitest&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+  ![DOM Sanitization](https://img.shields.io/badge/DOM_Sanitization-XSS_Hardening-2EA043?style=for-the-badge)
+  ![HTTP CSP Headers](https://img.shields.io/badge/Security-HTTP_CSP_Headers-388BFD?style=for-the-badge)
+  ![Binary Magic Bytes](https://img.shields.io/badge/File_Upload-Magic_Bytes_Validation-D29922?style=for-the-badge)
+
 * **🛡️ Off Hand (Full-Stack Shield & Backend Integration):**  
-  ![Go](https://img.shields.io/badge/Go_(REST_DTOs)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Web Locks API](https://img.shields.io/badge/Web_Locks_API-Concurrency_Mutex-388BFD?style=for-the-badge)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![REST APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge)
+  ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge)
+  ![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8957E5?style=for-the-badge&logo=anthropic&logoColor=white)
 
 * **📜 Supporting Grimoires (Enterprise Frameworks & Ecosystem):**  
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -73,10 +81,10 @@
 
 | Quest / Artifact | Focus | Highlights & Architecture | Status |
 | :--- | :--- | :--- | :---: |
-| 🚚 **[HW Trans Fleet (hiblow-fleet)](https://github.com/hadidwirsty/hiblow-fleet)** | Operational Logistics & Analytics | Mendigitalisasi logistik armada semen curah: omset ritase real-time, rasio BBM & operasional supir, margin PnL, serta grafik Recharts interaktif (`Next.js App Router`, `RSC`, `Tailwind v4`, `shadcn/ui`, `Zustand`). | `ACTIVE` |
-| 🛒 **[Momiji Home](https://github.com/Tumbuhin-Digital/momiji-home-frontend)** | B2B US Wholesale & Supply Chain | Arsitektur storefront modern (`Next.js 16`, `React 19`, `Tailwind v4`). Concurrency mutex token JWT via **Web Locks API**, multi-warehouse shipping split, dan Domain Adapter Pattern untuk DTO backend Go. | `DEPLOYED` |
-| 🛡️ **[intervals-icu-mcp](https://github.com/hadidwirsty/intervals-icu-mcp)** | AI MCP Server / Endurance Analytics | Integrasi server *Model Context Protocol* menghubungkan AI dengan platform analitik ketahanan **Intervals.icu** untuk evaluasi fisiologis atlet lari secara real-time (`TypeScript`, `MCP SDK`). | `COMPLETED` |
-| 🏢 **[Enterprise Productions (Telkomsigma & Telkom)](https://hadidwirsty.vercel.app)** | National & Corporate Systems | Membangun UI untuk institusi nasional: **BPJS Kesehatan (IMAPS)**, **Telkom Indonesia (Netmonk Analytics)**, dasbor insiden MONARA, dan PoC IS-WARE (peringkat #1 evaluasi teknis tender). | `CONQUERED` |
+| 🚚 **[HW Trans Fleet (hiblow-fleet)](https://github.com/hadidwirsty/hiblow-fleet)** | Operational Logistics & Analytics | Sistem manajemen armada semen curah: omset ritase real-time, rasio BBM & operasional supir, margin PnL, **100% React Server Components (RSC)**, Server Actions, Drizzle ORM, dan **297 unit tests otomatis (Vitest, 100% pass)**. | `ACTIVE` |
+| ⌚ **[garmin-connect-mcp](https://github.com/hadidwirsty/garmin-connect-mcp)** | AI MCP Server / Biometric Telemetry | Model Context Protocol server untuk Garmin Connect Personal API: analisis aktivitas lari, FIT telemetry streams, sleep hypnogram, overnight HRV, dan body battery (`TypeScript`, `MCP SDK`). | `COMPLETED` |
+| 🛡️ **[intervals-icu-mcp](https://github.com/hadidwirsty/intervals-icu-mcp)** | AI MCP Server / Endurance Analytics | Integrasi server *Model Context Protocol* menghubungkan agen AI dengan platform analitik ketahanan **Intervals.icu** untuk evaluasi fisiologis atlet lari secara real-time (`TypeScript`, `MCP SDK`). | `COMPLETED` |
+| 🏢 **[Enterprise Productions (Telkomsigma & Telkom)](https://hadidwirsty.vercel.app)** | National & Corporate Systems | Membangun UI untuk institusi nasional: **BPJS Kesehatan (IMAPS)**, **Telkom Indonesia (Netmonk Analytics)**, **WBS Internal** (magic bytes binary validation), **Alisa 2.0** (Module Federation Micro-Frontend), dan PoC **IS-WARE** (#1 evaluasi teknis tender). | `CONQUERED` |
 
 <br/>
 
@@ -117,10 +125,14 @@
 
 * 📍 **Base Camp:** Semarang &amp; Yogyakarta, Indonesia
 * 🎓 **Almamater:** Universitas Gadjah Mada (UGM) — Bachelor of Computer Science (S.Kom.)
+* 📜 **Official Guild Certifications:**
+  * **React Web Developer Expert** — Dicoding Indonesia (Valid to Oct 2027)
+  * **Cloud Practitioner Essentials (AWS)** — Dicoding Indonesia
+  * **Agile Foundations** — LinkedIn Learning
 * 🌐 **Online Grimoire / Portfolio:** [hadidwirsty.vercel.app](https://hadidwirsty.vercel.app)
 * 💼 **Guild Network:** [linkedin.com/in/hadidwirsty](https://linkedin.com/in/hadidwirsty)
 * 🏃 **Athletic Discipline:** Road Marathoner &amp; Endurance Enthusiast
-* 💬 **Quest Inquiries:** Terbuka untuk diskusi arsitektur *Frontend Engineering*, *Design Systems*, integrasi API/MCP, dan teknologi berbasis web performa tinggi.
+* 💬 **Quest Inquiries:** Terbuka untuk diskusi arsitektur *Frontend Engineering*, *Design Systems*, *Test-Driven Development (TDD)*, dan integrasi AI tooling (MCP).
 
 <br/>
 
